@@ -70,7 +70,7 @@
 //-----------------------------------------------
 
 //----- VERSIONING -----
-#define DLC_VERSION "v2.0.0"
+#define DLC_VERSION "v2.1.0"
 
 //----- VALIDATION: easing options -----
 #ifdef COVER_INSTALLED
